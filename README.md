@@ -1,10 +1,30 @@
-# my frist project
-welcome to my 1st project.this is open- source project serves as a handbook for various techologies and programming
+# Project
 
-weather you are computer science student or you are coding.
+## 📌 Description
+This is my first project created as part of my practical assignment.  
+The project demonstrates basic concepts of web development.
 
-![alt text](simple_image.jpg)
+## 🚀 Features
+- Simple and user-friendly design  
+- Basic functionality implemented  
+- Beginner-level project  
 
-## how to contribute
-we welcome contribution from the commity to help us expand and improve this handbook.
+## 🛠️ Technologies Used
+- HTML  
+ 
 
+## ▶️ How to Run
+1. Download or clone the repository  
+2. Open the project folder  
+3. Double click on `index.html` to run in browser  
+
+## 📂 Project Structure
+- index.html  
+- contact.html
+- about.html
+
+## 👨‍💻 Author
+Sakshi Nagade  
+
+## 📎 GitHub Link
+(https://github.com/nagadesakshi/my-1st-project.git)
