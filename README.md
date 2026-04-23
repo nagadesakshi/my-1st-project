@@ -12,7 +12,8 @@ The project demonstrates basic concepts of web development.
 ## 🛠️ Technologies Used
 - HTML
 ## project imagae
- ![C:\Users\shubh\OneDrive\Desktop\.html\read_md\simple_image.jpg]
+ ![simple_image.jpg]()
+ 
 
 
 ## ▶️ How to Run
