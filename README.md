@@ -10,8 +10,10 @@ The project demonstrates basic concepts of web development.
 - Beginner-level project  
 
 ## 🛠️ Technologies Used
-- HTML  
- 
+- HTML
+## project imagae
+ ![Uploading image.png…]()
+
 
 ## ▶️ How to Run
 1. Download or clone the repository  
