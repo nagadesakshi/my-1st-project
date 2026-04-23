@@ -11,9 +11,6 @@ The project demonstrates basic concepts of web development.
 
 ## 🛠️ Technologies Used
 - HTML
-## project imagae
- ![simple_image.jpg]()
- 
 
 
 ## ▶️ How to Run
