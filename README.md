@@ -12,7 +12,8 @@ The project demonstrates basic concepts of web development.
 ## 🛠️ Technologies Used
 - HTML
 ## project image
-![Uploading image.jpg…]()
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d531832a-11b9-401c-9d5d-8453be559818" />
+
 
 
 
