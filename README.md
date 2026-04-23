@@ -11,6 +11,9 @@ The project demonstrates basic concepts of web development.
 
 ## 🛠️ Technologies Used
 - HTML
+## project image
+![Uploading image.png…]()
+
 
 
 ## ▶️ How to Run
